@@ -4,4 +4,6 @@ import com.howtodoinjava.app.model.order.Order;
 
 public interface OrderService {
 	public Order createOrder(Order order);
+	
+	public Order fetchOrder();
 }
