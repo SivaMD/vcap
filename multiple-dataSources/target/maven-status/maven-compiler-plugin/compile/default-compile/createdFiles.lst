@@ -1,0 +1,13 @@
+com\howtodoinjava\app\repositories\user\UserRepository.class
+com\howtodoinjava\app\config\OrderDatasourceConfiguration.class
+com\howtodoinjava\app\services\user\UserService.class
+com\howtodoinjava\app\MultipleDataSourcesApplication.class
+com\howtodoinjava\app\controller\order\OrderController.class
+com\howtodoinjava\app\model\user\User.class
+com\howtodoinjava\app\services\order\OrderService.class
+com\howtodoinjava\app\services\user\impl\UserServiceImpl.class
+com\howtodoinjava\app\config\UserDatasourceConfiguration.class
+com\howtodoinjava\app\model\order\Order.class
+com\howtodoinjava\app\controller\user\UserController.class
+com\howtodoinjava\app\services\order\impl\OrderServiceImpl.class
+com\howtodoinjava\app\repositories\order\OrderRepository.class
